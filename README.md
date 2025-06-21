@@ -11,7 +11,4 @@ Upon creating my chart, I eliminated nonresponses, bringing the grand total of r
 
 See the chart below:
 
-![DataWrapper Chart](JOURN 124 - Week 4 DataWrapper.png.jpg)
- 
-
-![DataWrapper Chart]([JOURN 124 - Week 4 DataWrapper.png](url))
+![DataWrapper Chart](https://github.com/christinachang1/journ124-week4/blob/main/JOURN%20124%20-%20Week%204%20DataWrapper.png)
